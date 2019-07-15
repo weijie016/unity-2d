@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad0f38c6cd538e47a36c7774bc66b62, type: 3}
+  m_Name: X1. Wrong code death
+  m_EditorClassIdentifier: 
+  storyText: "For a brief moment you see the number 5 appearing, then the safe explodes
+    exploding your house and killing you.\r\n\r\nWant to try again?\r\n\r\n1. Yes.\r\n2.
+    No."
+  nextStates:
+  - {fileID: 11400000, guid: 88ceb1730bcc0c643bd93071e1ef4180, type: 2}
+  - {fileID: 11400000, guid: b4a94f09a2150b54fbbd381376983c8c, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad0f38c6cd538e47a36c7774bc66b62, type: 3}
+  m_Name: S2
+  m_EditorClassIdentifier: 
+  storyText: "S2. Dog saved\r\nYou got the gun, and head out of the house. You see
+    Andy approaching one of the bodies. You felt a bit of a deja vu.\r\n\r\nYou immediately
+    shoot the body and ran away with your dog.\n\n1. Restart game"
+  nextStates:
+  - {fileID: 11400000, guid: 88ceb1730bcc0c643bd93071e1ef4180, type: 2}

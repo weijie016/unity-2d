@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad0f38c6cd538e47a36c7774bc66b62, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: "Before you could even do anything, the body comes back up. Biting your
+    dog Andy. Andy drops down. You have some pencils on your hand.\r\n\r\nWhat do
+    you want to do?\r\n\r\n1. Immediately attacks the body with your pencils.\r\n2.
+    Run away."
+  nextStates:
+  - {fileID: 11400000, guid: cbb3ba7f9acbd494bbdf07a1951853b5, type: 2}
+  - {fileID: 11400000, guid: 63b9956755982764282354fc67741765, type: 2}

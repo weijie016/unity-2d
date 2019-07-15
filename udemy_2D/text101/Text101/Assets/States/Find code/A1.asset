@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad0f38c6cd538e47a36c7774bc66b62, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "Another Sunday Morning, Andy, my dog, is right in front of me to wake
+    me up. Then, he leaves the room. Before I can even get up, Andy was already out
+    of the house.\r\n\r\nThis is unusual, Andy does not usually do that.\r\n\r\nWhat
+    should I do?\r\n1. Chase Andy immediately\r\n2. Go to the basement to grab my
+    gun."
+  nextStates:
+  - {fileID: 11400000, guid: 8ce69147a14e18244ab23cc8a2211e9c, type: 2}
+  - {fileID: 11400000, guid: ccdda8d62bb86924f94d555c46d556e3, type: 2}

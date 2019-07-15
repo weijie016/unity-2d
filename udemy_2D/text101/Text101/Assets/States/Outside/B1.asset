@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad0f38c6cd538e47a36c7774bc66b62, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  storyText: "You went out of the house, It was plain silent, some bodies lie around
+    the road. You see Andy approaching one of the bodies.\r\n\r\nWhat do you want
+    to do?\r\n\r\n1. Stop Andy Immediately\r\n2. Tell Andy to come to you instead."
+  nextStates:
+  - {fileID: 11400000, guid: 14761a663d12f014296d2662dd6dd6e5, type: 2}
+  - {fileID: 11400000, guid: 14761a663d12f014296d2662dd6dd6e5, type: 2}
